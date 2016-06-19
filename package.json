@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azar284286/Project.git"
+  },
+  "author": "Aleksey, Georgy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azar284286/Project/issues"
+  },
+  "homepage": "https://github.com/azar284286/Project#readme"
+}
